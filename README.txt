@@ -1,4 +1,11 @@
-------Part 1:
+Scheduler
+Valeria Frolova
+University of Victoria 
+
+Disclaimer: 
+Part of this code was created by Yvonne Coady and Asscociates from University of Victoria to guide her students through this topic.
+"worm.c" and test files are not mine in any way.
+Other file methods and functionalities were implemented by me.
 
 Scheduler "schedule()" function takes some int value, which represents task to handle by
 scheduler, to take control over that task and decide what it has been told to do during runtime.

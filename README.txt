@@ -1,6 +1,7 @@
 Scheduler
 Valeria Frolova
-University of Victoria 
+University of Victoria
+Spring 2020
 
 Disclaimer: 
 Part of this code was created by Yvonne Coady and Asscociates from University of Victoria to guide her students through this topic.
